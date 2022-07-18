@@ -1,4 +1,4 @@
-(:Question:
+(: Question:
 
 Search the file to group all sentence ids (<sent_id/>) by the lemmas (@lemma) of subordinate conjunctions (@upos="SCONJ").
 
@@ -14,7 +14,7 @@ To state this differently, you search the file for all subordinate conjunctions 
 
 :)
 
-let $doc := doc("treebank_eng_2.xml")
+let $doc := doc("../db/treebank_eng_2.xml")
 for $t in $doc//s/t[@upos="SCONJ"]
 let $id := $t/parent::s/sent_id
 

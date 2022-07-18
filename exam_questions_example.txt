@@ -1,0 +1,29 @@
+1) Find all sentences in File [1], which contain a token with @lemma = "that" and @upos="DET", and return them thus (the token will be printed in the element </i>):
+
+<results>
+...
+<s id="en_partut-ud-1019">After <i>that</i> date, any aid found to be incompatible with <i>those</i> guidelines shall be considered as new aid.</s>
+...
+</results>
+
+
+2) Find all sentences in File [1] where there is a verb (@upos = "VERB") which governs a prepositional phrase (PP) introduced by the preposition "in" (@upos = "ADP"), as in "# sent_id = en_partut-ud-2018" (Remember how the annotation of PP is performed in Universal Dependencies). Simply return the sentences thus: 
+
+<results>
+...
+ <s id="en_partut-ud-2018">In Shakespeare's late romances, he deliberately returned to a more artificial style, which emphasised the illusion of theatre.</s>
+...
+<results>
+
+
+3) Search the File [2] for all sentences in which no verb (a verb is token with @upos being equal to VERB or AUX) is in the past tense (i.e., @feats does not contain Tense=Past) in the following way:
+
+ <sentence>For those who follow social media transitions on Capitol Hill, this will be a little different.</sentence>
+ <sentence>What she’s saying and what she’s doing, it — actually, it’s unbelievable.</sentence>
+ <sentence>Rather than teaching the scientific method as a separate unit, for example, students learn science content by applying it.</sentence>
+...
+
+
+---
+[1] https://git.informatik.uni-leipzig.de/celano/sose2022/-/raw/main/texts/treebank_eng_1.xml
+[2] https://git.informatik.uni-leipzig.de/celano/sose2022/-/raw/main/texts/treebank_eng_2.xml
