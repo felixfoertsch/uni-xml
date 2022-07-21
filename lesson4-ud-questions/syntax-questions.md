@@ -6,7 +6,7 @@ Source: <https://universaldependencies.org/u/overview/syntax.html>
 
 - Content words: In UD there are content words and function words
 - The priumacy of content words means, that we usually attach function words to content words and not vice versa
-- It was adopted because it allows to compare diferent languages better. E.g. some languages have cases, some don't and marking them up with the primacy of content words, shows this difference clearly. Italian: liber-Marci vs. Englisch: book-of-Marc
+- It was adopted because it allows to compare diferent languages better. E.g. some languages have cases, some don't and marking them up with the primacy of content words, shows this difference clearly. Latin: liber-Marci vs. Englisch: book-of-Marc
 
 ## How is coordination annotated in UD? Answer by giving an example and specify why this annotation strategy is questionable on linguistic grounds
 
