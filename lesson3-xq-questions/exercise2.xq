@@ -9,21 +9,48 @@ Find all sentences in treebank_eng_1.xml containing a verb (@upos = "VERB") that
 <results>
 
 :)
-<results>
-{
-  let $doc := doc("../db/treebank_eng_1.xml")
-  let $sentences := $doc//s
-  
-  for $sentence in $sentences
-  let $verb := $sentence/t[@upos="VERB"]
-  let $adp := $sentence/t[@upos="ADP" and @lemma="in" and @deprel="case"]
-  
-  let $sent-id := replace($adp/../m[1], "# sent_id = ", "")
-  where $verb and $sent-id
-  
-  let $text := replace(data($adp/../m[2]), "# text = ", "")
+
+declare function local:tree($nodes, $head) {
+  for $item in $nodes[@head=$head]
+  let $item-id := data($item/@id)
   
   return
-  <s id="{$sent-id}">{$text}</s>
+  element t {
+    attribute id { $item-id },
+    attribute lemma { $item/@lemma},
+    attribute upos { $item/@upos },
+    local:tree($nodes, $item-id)
+  }
+};
+
+declare function local:tree-wrap($doc) {
+  let $sentences := $doc//s
+  for $sentence in $sentences
+  return
+  element s {
+    attribute sid { local:clean-id($sentence/m[1]) },
+    attribute text { local:clean-content($sentence/m[2]) },
+    local:tree($sentence/t, "0") 
+  }
+};
+
+declare function local:clean-id($id) {
+  replace($id, "# sent_id = ", "")
+};
+
+declare function local:clean-content($content) {
+  replace($content, "# text = ", "")
+};
+
+let $doc := local:tree-wrap(doc("../db/treebank_eng_1.xml"))
+
+return
+
+for $s in $doc
+where $s/t[@upos="VERB"]/descendant::*[@upos="ADP" and @lemma="in"]
+
+return
+element s {
+  attribute id { $s/@sid },
+  text { $s/@text }
 }
-</results>

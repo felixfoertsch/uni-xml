@@ -39,6 +39,19 @@
 
 ### ends-with()
 
+## Functions for Sequences
+
+fn:zero-or-one($seq)
+fn:one-or-more($seq)
+fn:exactly-one($seq)
+fn:empty($seq)
+fn:exists($seq)
+fn:count($seq)
+fn:insert-before()
+fn:remove
+fn:reverse
+fn:unordered
+
 ## Syntax
 
 - `declare function function-name($arg, ...) {}`
