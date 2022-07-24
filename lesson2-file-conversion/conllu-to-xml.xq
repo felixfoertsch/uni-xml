@@ -23,10 +23,10 @@ file:write("/Users/felixfoertsch/Developer/Uni-Development/uni-xml/db/converted-
 
 <treebank> {
 
-let $text := tokenize(fetch:text("https://raw.githubusercontent.com/UniversalDependencies/UD_English-ParTUT/master/en_partut-ud-test.conllu"), "\n\n")
+let $text := tokenize(fetch:text("https://raw.githubusercontent.com/UniversalDependencies/UD_English-PUD/master/en_pud-ud-test.conllu"), "\n\n")
 
 for $item in $text return
-<sentence>
+<s>
 {
   for $line in tokenize($item, "\n") return
 
@@ -37,20 +37,20 @@ for $item in $text return
     else
       let $token := tokenize($line, "\t")
       return
-      <token
-        ID="{ $token[1] }"
-        FORM="{ $token[2] }"
-        LEMMA="{ $token[3] }"
-        UPOS="{ $token[4] }"
-        XPOS="{ $token[5] }"
-        FEATS="{ $token[6] }"
-        HEAD="{ $token[7] }"
-        DEPREL="{ $token[8] }"
-        DEPS="{ $token[9] }"
-        MISC="{ $token[10] }"
+      <t
+        id="{ $token[1] }"
+        form="{ $token[2] }"
+        lemma="{ $token[3] }"
+        upos="{ $token[4] }"
+        xpos="{ $token[5] }"
+        feats="{ $token[6] }"
+        head="{ $token[7] }"
+        deprel="{ $token[8] }"
+        deps="{ $token[9] }"
+        misc="{ $token[10] }"
        /> 
 }
-</sentence>
+</s>
 }
 
 </treebank>)

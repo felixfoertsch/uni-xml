@@ -47,7 +47,7 @@ let $doc := local:tree-wrap(doc("../db/treebank_eng_1.xml"))
 return
 
 for $s in $doc
-where $s/t[@upos="VERB"]/descendant::*[@upos="ADP" and @lemma="in"]
+where $s/descendant-or-self::t[@upos="VERB"]/descendant::t[@upos="ADP" and @lemma="in"]
 
 return
 element s {
