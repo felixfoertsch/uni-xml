@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection 
+[
+<!ELEMENT collection (serie*)>
+<!ELEMENT serie (tome+,editeur?)>
+<!ATTLIST serie nom CDATA #REQUIRED>
+<!ELEMENT tome (scenariste?,dessinateur?,titre)>
+<!ATTLIST tome numero CDATA #REQUIRED>
+<!ELEMENT scenariste (#PCDATA)>
+<!ELEMENT dessinateur (#PCDATA)>
+<!ELEMENT titre (#PCDATA)>
+<!ELEMENT editeur EMPTY>
+<!ATTLIST editeur nom CDATA #REQUIRED adresse CDATA #IMPLIED>
+]>
+<collection>
+  <serie nom="Lanfeust de Troy">
+    <tome numero="1">
+      <scenariste>Arleston</scenariste>
+      <dessinateur>Tarquin</dessinateur>
+      <titre>L&apos;ivoire du Magohamoth</titre>
+    </tome>
+    <tome numero="2">
+      <dessinateur>Tarquin</dessinateur>
+      <titre>Thanos l&apos;incongru</titre>
+    </tome>
+    <editeur nom="Soleil production"/>
+  </serie>
+  <serie nom="Calvin &amp; Hobbes">
+    <tome numero="1">
+      <titre>Adieu, monde cruel</titre>
+    </tome>
+  </serie>
+  <serie nom="Léonard">
+    <tome numero="23">
+      <scenariste>De groot</scenariste>
+      <dessinateur>Turk</dessinateur>
+      <titre>Poil au génie</titre>
+    </tome>
+    <editeur nom="Le lombard"/>
+  </serie>
+</collection>

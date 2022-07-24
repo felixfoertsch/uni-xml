@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE bookmarks 
+[
+<!ELEMENT bookmarks ((categorie|bookmark)*)>
+<!ELEMENT categorie ((categorie|bookmark|description)*)>
+<!ATTLIST categorie nom CDATA #REQUIRED>
+<!ELEMENT bookmark (title?,description?)>
+<!ATTLIST bookmark url CDATA #REQUIRED>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+]>
+<bookmarks>
+  <categorie nom="OS">
+    <categorie nom="Linux">
+      <bookmark url="http://www.linux.org">
+        <title>Linux Online</title>
+        <description>Site de référence sur Linux</description>
+      </bookmark>
+      <bookmark url="http://www.kernel.org">
+        <title>The Linux Kernel Archives</title>
+      </bookmark>
+      <bookmark url="http://www.linuxfr.org">
+        <description>Site communautaire sur linux</description>
+      </bookmark>
+    </categorie>
+    <categorie nom="Windows">
+      <description>Le célèbre OS de Microsoft</description>
+      <bookmark url="http://www.windows.com">
+        <title>Windows</title>
+        <description>Le site de Windows</description>
+      </bookmark>
+      <bookmark url="http://www.microsoft.com">
+        <title>Microsoft</title>
+        <description>Le site de l'éditeur</description>
+      </bookmark>
+    </categorie>
+    <categorie nom="Mac OS">
+      <bookmark url="http://www.apple.com">
+        <title>Apple</title>
+        <description>Le site d'Apple</description>
+      </bookmark>
+      <categorie nom="OS X">
+        <bookmark url="http://www.osxfacile.com">
+          <title>Mac OS X facile</title>
+          <description>Site d'aide sur Mac OS</description>
+        </bookmark>
+        <bookmark url="http://www.apple.com/fr/macosx/">
+          <title>Mac OS X</title>
+          <description>Site de Mac OS X en Français</description>
+        </bookmark>
+      </categorie>
+      <categorie nom="Mac OS 9">
+        <bookmark url="http://fr.wikipedia.org/wiki/Mac_OS_9">
+          <title>Mac OS 9 - Wikipédia</title>
+          <description>Article Wikipedia sur Mac OS 9</description>
+        </bookmark>
+      </categorie>
+      <bookmark url="http://fr.wikipedia.org/wiki/Mac_OS">
+        <title>Mac OS - Wikipédia</title>
+      </bookmark>
+    </categorie>
+  </categorie>
+  <categorie nom="Bases de données">
+    <bookmark url="http://www.oracle.com">
+      <title>Oracle Corporation</title>
+    </bookmark>
+    <bookmark url="http://www.mysql.com">
+      <title>MySQL AB :: The World's Most Popular Open Source Database</title>
+    </bookmark>
+  </categorie>
+</bookmarks>

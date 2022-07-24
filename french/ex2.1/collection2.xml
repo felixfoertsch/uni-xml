@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE collection 
+[
+<!ELEMENT collection (serie*)>
+<!ELEMENT serie (tome+,editeur?)>
+<!ATTLIST serie nom CDATA #REQUIRED>
+<!ELEMENT tome (scenariste?,dessinateur?,titre)>
+<!ATTLIST tome numero CDATA #REQUIRED>
+<!ELEMENT scenariste (#PCDATA)>
+<!ELEMENT dessinateur (#PCDATA)>
+<!ELEMENT titre (#PCDATA)>
+<!ELEMENT editeur EMPTY>
+<!ATTLIST editeur nom CDATA #REQUIRED adresse CDATA #IMPLIED>
+]>
+<collection>
+  <serie nom="A">
+    <tome numero="1">
+      <titre>Alpha</titre>
+    </tome>
+    <tome numero="2">
+      <titre>Beta</titre>
+    </tome>
+  </serie>
+  <serie nom="B">
+    <tome numero="5">
+      <titre>Delta</titre>
+    </tome>
+    <tome numero="4">
+      <titre>Gamma</titre>
+    </tome>
+  </serie>
+  <serie nom="C">
+    <tome numero="1">
+      <titre>Epsilon</titre>
+    </tome>
+  </serie>
+</collection>

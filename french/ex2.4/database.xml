@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE database
+[
+<!ELEMENT database (file*)>
+<!ELEMENT file EMPTY>
+<!ATTLIST file name CDATA #REQUIRED url CDATA #REQUIRED>
+]
+>
+<database>
+  <file name="Database" url="database.xml"/>
+  <file name="Bookmarks" url="bookmarks.xml"/>
+  <file name="Vente livres" url="biblio.xml"/>
+  <file name="Collection" url="collection.xml"/>
+  <file name="Collection 2" url="collection2.xml"/>
+  <file name="Hamlet" url="hamlet.xml"/>
+  <file name="Pieces" url="pieces.xml"/>
+</database>

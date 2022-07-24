@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE pieces [
+<!ELEMENT pieces (piece+)>
+<!ELEMENT piece EMPTY>
+<!ATTLIST piece nom CDATA #REQUIRED id CDATA #REQUIRED used-in CDATA #IMPLIED>
+]>
+<pieces>
+  <piece nom="piston" id="p" used-in="m"/>
+  <piece nom="moteur" id="m"/>
+  <piece nom="distribution" id="dist" used-in="m"/>
+  <piece nom="pneu" id="pn" used-in="r"/>
+  <piece nom="balai" id="b" used-in="eg"/>
+  <piece nom="roulement" id="roul" used-in="gal"/>
+  <piece nom="culasse" id="c" used-in="m"/>
+  <piece nom="joint de culasse" id="jc" used-in="c"/>
+  <piece nom="courroi" id="cour" used-in="dist"/>
+  <piece nom="jante" id="jan" used-in="r"/>
+  <piece nom="essuie glace" id="eg"/>
+  <piece nom="galet" id="gal" used-in="dist"/>
+  <piece nom="bielle" id="b" used-in="p"/>
+  <piece nom="roue" id="r"/>
+</pieces>
