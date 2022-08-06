@@ -23,34 +23,23 @@ file:write("/Users/felixfoertsch/Developer/Uni-Development/uni-xml/db/converted-
 
 <treebank> {
 
-let $text := tokenize(fetch:text("https://raw.githubusercontent.com/UniversalDependencies/UD_English-PUD/master/en_pud-ud-test.conllu"), "\n\n")
+  let $text := tokenize(fetch:text("https://raw.githubusercontent.com/UniversalDependencies/UD_English-PUD/master/en_pud-ud-test.conllu"), "\n\n")
 
-for $item in $text return
-<s>
-{
-  for $line in tokenize($item, "\n") return
-
-    if (starts-with($line, "# sent_id")) then
-      <sent_id> { replace($line, "# sent_id = ", "") } </sent_id>
-    else if (starts-with($line, "# text")) then
-      <text> { replace($line, "# text = ", "") } </text>
-    else
-      let $token := tokenize($line, "\t")
-      return
-      <t
-        id="{ $token[1] }"
-        form="{ $token[2] }"
-        lemma="{ $token[3] }"
-        upos="{ $token[4] }"
-        xpos="{ $token[5] }"
-        feats="{ $token[6] }"
-        head="{ $token[7] }"
-        deprel="{ $token[8] }"
-        deps="{ $token[9] }"
-        misc="{ $token[10] }"
-       /> 
-}
-</s>
-}
-
-</treebank>)
+  for $item in $text
+  return
+  <s> {
+    for $line in tokenize($item, "\n")
+    return
+      if (starts-with($line, "# sent_id")) then
+        <sent_id> { replace($line, "# sent_id = ", "") } </sent_id>
+      else if (starts-with($line, "# text")) then
+        <text> { replace($line, "# text = ", "") } </text>
+      else
+        let $token := tokenize($line, "\t")
+        return
+        <t id="{ $token[1] }" form="{ $token[2] }" lemma="{ $token[3] }"
+        upos="{ $token[4] }" xpos="{ $token[5] }" feats="{ $token[6] }"
+        head="{ $token[7] }" deprel="{ $token[8] }" deps="{ $token[9] }"
+        misc="{ $token[10] }" /> 
+  } </s>
+} </treebank>)

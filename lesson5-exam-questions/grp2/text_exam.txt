@@ -1,0 +1,13 @@
+Exam 25 July 2022
+
+Solve the following 4 exercises by writing scripts that will be saved, respectively, as "solution_1.xq", "solution_2.xq", "solution_3.xq","solution_4.xq" within the folder "exam2" (use relative paths to refer to the files phi0448.phi001.perseus-lat2.xml and 
+treebank_eng.xml).
+
+1) Tokenize the text inside the <body> element of the file phi0448.phi001.perseus-lat2.xml: a token is defined as a string separated by one or more whitespace characters (in a regular expression, the relevant argument should be "\s+"). Tokens will be grouped on de basis of their word form, alphabetically ordered, and counted, as shown in result_1.xml
+
+2) Transform the phi0448.phi001.perseus-lat2.xml so that the text inside the <body> element is capitalized, as shown in result_2.xml. 
+
+3) Find all sentences in the file treebank_eng.xml which contain a subordinate clause introduced by
+"after" (look at @upos to identify the right "after") and return such clauses as shown in result_3.xml (the tokens returned are the ones following "after" and separated by one space by default, regardless of whether there is no space in the original sentence text).
+
+4) Find all verbs and their direct syntactic dependents in the file treebank_eng.xml and group and order them by the number of dependents, as shown in results_4.xml. Verbs are defined such by their @upos value.
