@@ -1,4 +1,4 @@
-(: Return only the text of all sections. :)
+(: Return only the text of all sections :)
 
 declare variable $doc := doc("phi0448.phi001.perseus-lat2.xml");
 

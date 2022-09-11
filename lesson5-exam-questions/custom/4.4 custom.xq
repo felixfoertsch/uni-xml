@@ -1,4 +1,4 @@
-(: Transform the text of all odd sections to upper-case and all even sections to lower-case:)
+(: Transform the text of all odd sections to upper-case and all even sections to lower-case :)
 
 declare variable $doc := doc("phi0448.phi001.perseus-lat2.xml");
 
