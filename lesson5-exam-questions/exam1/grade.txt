@@ -1,6 +1,0 @@
-1) grade: 1
-2) grade: 0 (see solution attached)
-3) grade: 0.5 (the text returned should have been connected to the token "after" found)
-4) grade: 0 (see solution attached)
-
-Final grade: 3.3
