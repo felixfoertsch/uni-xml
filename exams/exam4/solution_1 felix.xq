@@ -1,9 +1,7 @@
 (:
-1) Find all instances of the word "propter" contained in Book 7 in phi0448.phi001.perseus-lat2.xml, and return the word following it, as shown in result_1.xml ("word" is defined as a string of characters separated by whitespace characters, which in XQuery regular expressions can be specified as "\s+").
+Find all instances of the word "propter" contained in Book 7 in phi0448.phi001.perseus-lat2.xml, and return the word following it, as shown in result_1.xml ("word" is defined as a string of characters separated by whitespace characters, which in XQuery regular expressions can be specified as "\s+").
 :)
-
 declare option output:indent 'yes';
-
 declare variable $doc := doc("./phi0448.phi001.perseus-lat2.xml");
 
 element result {

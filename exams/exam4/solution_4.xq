@@ -1,8 +1,6 @@
-(:4) Find all tokens having a value for "VerbForm" in their @feats, 
-and group them according to these values (for example, "Fin" in  "VerbForm=Fin"), 
-as shown in result_4.xml (note that for each group you have to return 
-each verb having that specific value of VerbForm).:)
-
+(:
+Find all tokens having a value for "VerbForm" in their @feats, and group them according to these values (for example, "Fin" in  "VerbForm=Fin"), as shown in result_4.xml (note that for each group you have to return each verb having that specific value of VerbForm).
+:)
 declare option output:indent 'yes';
 declare variable $doc := doc("./treebank_eng.xml");
 
@@ -17,7 +15,7 @@ return
 { for $i in $n
   let $s := $i/parent::s
   return
-  <verb_instance form="{$i/@form/data(.)}" 
+  <verb_instance form="{$i/@form/data(.)}"
                  sent_id="{$s/sent_id}">{$s/text/text()}
   </verb_instance>
 }

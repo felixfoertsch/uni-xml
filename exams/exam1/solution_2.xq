@@ -1,6 +1,9 @@
 (:
-2) Transform the phi0448.phi001.perseus-lat2.xml so that the text inside the <body> element is capitalized, as shown in result_2.xml.
+Transform the phi0448.phi001.perseus-lat2.xml so that the text inside the <body> element is capitalized, as shown in result_2.xml.
 :)
+declare option output:indent 'yes';
+declare variable $doc := doc("phi0448.phi001.perseus-lat2.xml");
+
 copy $doc := doc("phi0448.phi001.perseus-lat2.xml")
 modify
 (

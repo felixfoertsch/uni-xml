@@ -1,12 +1,8 @@
-(:3) Find all plural nouns (i.e., @upos = "NOUN" and @feats must contain "Number=Plur") 
-not ending in "s" which govern a determiner (i.e, @upos = "DET"), 
-and return them as shown in result_3.xml:)
-
+(:
+Find all plural nouns (i.e., @upos = "NOUN" and @feats must contain "Number=Plur") not ending in "s" which govern a determiner (i.e, @upos = "DET"), and return them as shown in result_3.xml
+:)
 declare option output:indent 'yes';
-
-
 declare variable $doc := doc("./treebank_eng.xml");
-
 
 <result>
 {

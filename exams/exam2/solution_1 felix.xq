@@ -4,11 +4,25 @@ Tokenize the text inside the <body> element of the file phi0448.phi001.perseus-l
 declare option output:indent 'yes';
 declare variable $doc := doc("phi0448.phi001.perseus-lat2.xml");
 
-<text>{
-for $b in $doc//*:body//*:p
-for $t in tokenize($b, "\s+")
-group by $v := $t
-order by $v
-return
-<g count="{count($t)}">{$t}</g>
-}</text>
+element text {
+  for $p in $doc//*:body//*:p, $t in data(tokenize($p, "\s+"))
+
+  group by $group := $t
+  order by $group
+
+  return
+  element g {
+    attribute count { count($t) },
+    $t
+  }
+}
+
+(:
+<text>
+  <g count="3">" " "</g>
+  <g count="1">"Frustra,"</g>
+  <g count="1">"Habetis,"</g>
+  <g count="1">"Haec</g>
+  <g count="1">"Haec,"</g>
+  ...
+:)

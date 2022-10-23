@@ -1,6 +1,6 @@
 (:
-4) Find all tokens having a value for "VerbForm" in their @feats, and group them according to these values (for example, "Fin" in  "VerbForm=Fin"), as shown in result_4.xml (note that for each group you have to return each verb having that specific value of VerbForm).:)
-
+Find all tokens having a value for "VerbForm" in their @feats, and group them according to these values (for example, "Fin" in  "VerbForm=Fin"), as shown in result_4.xml (note that for each group you have to return each verb having that specific value of VerbForm).
+:)
 declare option output:indent 'yes';
 declare variable $doc := doc("./treebank_eng.xml");
 
@@ -15,7 +15,7 @@ group by $verbform
 return
 element Verbform {
   attribute value { tokenize($verbform, "=")[2] },
-  
+
   for $item in $t return
   element verb_instance {
     attribute form { $item/@form },

@@ -1,7 +1,7 @@
 (:
-3.4) Find all verbs and their direct syntactic dependents in the file treebank_eng.xml and group and order them by the number of dependents, as shown in results_4.xml. Verbs are defined such by their @upos value.
+Find all verbs and their direct syntactic dependents in the file treebank_eng.xml and group and order them by the number of dependents, as shown in results_4.xml. Verbs are defined such by their @upos value.
 :)
-
+declare option output:indent 'yes';
 declare variable $doc := doc("treebank_eng.xml");
 
 <results>{
