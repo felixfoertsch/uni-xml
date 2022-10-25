@@ -1,0 +1,69 @@
+Exam 25 October 2022
+
+Solve the following four exercises by writing scripts that will be saved, 
+respectively, as "solution_1.xq", "solution_2.xq", "solution_3.xq",
+"solution_4.xq" within the folder "exam" (use relative paths to refer to 
+the files). In order to get the same printed result you see in the files result_X.xml, 
+you may want to add, at the very beginning of each of your scripts:
+ 
+declare option output:indent 'yes';
+
+1) 
+Find in de_gsd-ud-test.xml all verbs (@upos="VERB") that govern a following subject (look at @deprel)
+and return the results as you see in result_1.xml.
+
+Tip: if you do not remember the labels for the subject, find them by retrieving 
+the unique values of @deprel using the function distinct-values()
+
+2)
+Find all tokens with @upos="SCONJ" in de_gsd-ud-test.xml ,
+i.e., a subordinate conjunction. Return the content of the subordinate
+clause that such subordinate conjunction introduces: you can assume that the content consists
+of any token which follows the subordinate conjunction in linear order.
+
+You also have to distinguish if the subordinate clause follows or precedes its superordinate clause:
+you can assume this by looking at the position of the subordinate conjunction with respect 
+to the position of the verb of the superordinate clause. If the
+subordinate conjunction follows it, then you get a "following subordinate clause", otherwise
+you have a "preceding subordinate clause". 
+
+To find the verb of the superordinate clause follows this logic: for each subordinate conjunction
+find its governing verb and the governing verb of this governing verb.
+
+3) 
+The file tlg0006.tlg003.perseus-grc2.tok01_lemma01.xml contains Greek lemmas in
+@value. Group the token references in @xlink:href by those lemmas,
+so that you get the output in result_3.xml. 
+
+Tip: The attribute @xlink:href is in a namespace, and 
+therefore you can refer to it in a query as @*:href.
+
+
+4)
+The files tlg0006.tlg003.perseus-grc2.tok01_postag01.xml and
+tlg0006.tlg003.perseus-grc2.tok01_lemma01.xml contain the same number of <feat>
+elements, where each of it contains a piece of annotation related to a word form
+specified in the XML comment following each <feat> element. For example, 
+the first <feat> element + XML comment in tlg0006.tlg003.perseus-grc2.tok01_postag01.xml is
+
+
+<feat xlink:href="#tok_1" value="n-s---md-"/>
+<!--Εἴθ-->
+
+
+The annotation is in @value and refers to the token '#tok_1', whose word form 
+is specified in the immediately following XML comment <!--Εἴθ-->. If you open the other file
+tlg0006.tlg003.perseus-grc2.tok01_lemma01.xml, you will find the same structure:
+
+
+<feat xlink:href="#tok_1" value="εἴθς"/>
+<!--Εἴθ-->
+
+
+The annotation is again in @value ("εἴθς") and again refers to "#tok_1", whose word form
+is "Εἴθ" (if values in @xlink:href are the same, then the XML comments are also always the same).
+Connect the two file so as to get the result in result_4.xml
+
+Tip: XML comments are nodes that can be accessed using the syntax: comment(). To extract
+the content of a comment node use the function data().
+

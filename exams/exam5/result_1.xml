@@ -1,0 +1,1107 @@
+<file>
+  <sentence n="1" sent_id="test-s13">
+    <text_sent>Als ich mit meiner Frau und meiner Tante im Oktober 2007 in Norden nach einer Gaststätte suchten, in der man das originelle Gericht "Labskaus" essen könnte, verlief unsere Suche zunächst erfolglos.</text_sent>
+    <verb>verlief</verb>
+    <sub>Suche</sub>
+  </sentence>
+  <sentence n="2" sent_id="test-s16">
+    <text_sent>Also für eine Nacht reicht es, aber nicht noch einmal.</text_sent>
+    <verb>reicht</verb>
+    <sub>es</sub>
+  </sentence>
+  <sentence n="3" sent_id="test-s20">
+    <text_sent>An den anderen Tischen sah es nicht besser aus.</text_sent>
+    <verb>sah</verb>
+    <sub>es</sub>
+  </sentence>
+  <sentence n="4" sent_id="test-s23">
+    <text_sent>Ansonsten gibt es eine Auswahl an verschiedenen Kraft - und Cardiogeräten.</text_sent>
+    <verb>gibt</verb>
+    <sub>es</sub>
+  </sentence>
+  <sentence n="5" sent_id="test-s29">
+    <text_sent>Auch für Probetermine nimmt sie sich sehr viel Zeit und zeichnet alles genaustens vor, so dass man sich vorstellen kann, wie das Ergebnis ist.</text_sent>
+    <verb>nimmt</verb>
+    <sub>sie</sub>
+  </sentence>
+  <sentence n="6" sent_id="test-s33">
+    <text_sent>Auch zu beachten ist, dass das Angebot aus der Internetreferenz im Laden selber für unseren Bedarf sichtlich fehlte...</text_sent>
+    <verb>beachten</verb>
+    <sub>fehlte</sub>
+  </sentence>
+  <sentence n="7" sent_id="test-s38">
+    <text_sent>Außerdem gehört Herr Lansky zu den Anwälten, die gerade herraus sagen, wie die Chancen stehen, den Fall zu gewinnen oder nicht.</text_sent>
+    <verb>gehört</verb>
+    <sub>Lansky</sub>
+  </sentence>
+  <sentence n="8" sent_id="test-s42">
+    <text_sent>Beim Kickboxen kommen dann selbstverständlich noch verschiedenste Tritt - Techniken dazu.</text_sent>
+    <verb>kommen</verb>
+    <sub>Techniken</sub>
+  </sentence>
+  <sentence n="9" sent_id="test-s48">
+    <text_sent>Bin in der letzten Woche zufällig an dem neuen Laden vorbeigekommen und da er alleine von außen schon so einladend und beruhigend auf einen wirkt, (nach einer Shoppingtour seeeehr einladend :-) bin ich kurzerhand rein und habe mich von dem supernetten Personal erstmal beraten lassen..</text_sent>
+    <verb>bin</verb>
+    <sub>ich</sub>
+  </sentence>
+  <sentence n="10" sent_id="test-s51">
+    <text_sent>Bis ich bei Uwe war, seit dem gehe ich nur noch zu ihm.</text_sent>
+    <verb>gehe</verb>
+    <sub>ich</sub>
+  </sentence>
+  <sentence n="11" sent_id="test-s58">
+    <text_sent>Dabei besteht eine Einheit aus einem ausgiebigen Fitness - und Ausdauer - Teil, dann folgt die Technik</text_sent>
+    <verb>besteht</verb>
+    <sub>Einheit</sub>
+  </sentence>
+  <sentence n="12" sent_id="test-s58">
+    <text_sent>Dabei besteht eine Einheit aus einem ausgiebigen Fitness - und Ausdauer - Teil, dann folgt die Technik</text_sent>
+    <verb>folgt</verb>
+    <sub>Technik</sub>
+  </sentence>
+  <sentence n="13" sent_id="test-s59">
+    <text_sent>Dabei signalisierte mir das Fahrzeug, dass sich kein Wasser mehr im Kühlkreislauf befinden würde.</text_sent>
+    <verb>signalisierte</verb>
+    <sub>Fahrzeug</sub>
+  </sentence>
+  <sentence n="14" sent_id="test-s74">
+    <text_sent>Das ist leider keine Kundenorientierung und deshalb gibt es einen Kaktus für die Angestellten des Restaurants.</text_sent>
+    <verb>gibt</verb>
+    <sub>es</sub>
+  </sentence>
+  <sentence n="15" sent_id="test-s76">
+    <text_sent>Das letzte Mal war ich vor ein paar Wochen dort und muss sagen, dass es mir sehr gut gefallen hat.</text_sent>
+    <verb>war</verb>
+    <sub>ich</sub>
+  </sentence>
+  <sentence n="16" sent_id="test-s78">
+    <text_sent>Das nennt man Kundennähe...</text_sent>
+    <verb>nennt</verb>
+    <sub>man</sub>
+  </sentence>
+  <sentence n="17" sent_id="test-s90">
+    <text_sent>Dem Park fehlt eine Spitzenattraktion / ein Highlight, wie eine Achterbahn mit Katapultstart und Überschlägen.</text_sent>
+    <verb>fehlt</verb>
+    <sub>Spitzenattraktion</sub>
+  </sentence>
+  <sentence n="18" sent_id="test-s109">
+    <text_sent>Die Musiker beherrschen ihre Instrumente alle und brauchen sich nicht hinter einem Playback verstecken -- so macht zuhören Spass!</text_sent>
+    <verb>macht</verb>
+    <sub>zuhören</sub>
+  </sentence>
+  <sentence n="19" sent_id="test-s111">
+    <text_sent>Die Simkarte habe ich zwar, aber benutzen kann ich diese nicht.</text_sent>
+    <verb>habe</verb>
+    <sub>ich</sub>
+  </sentence>
+  <sentence n="20" sent_id="test-s111">
+    <text_sent>Die Simkarte habe ich zwar, aber benutzen kann ich diese nicht.</text_sent>
+    <verb>benutzen</verb>
+    <sub>ich</sub>
+  </sentence>
+  <sentence n="21" sent_id="test-s113">
+    <text_sent>Diese Firma gibt es seit 1989 nicht mehr.</text_sent>
+    <verb>gibt</verb>
+    <sub>es</sub>
+  </sentence>
+  <sentence n="22" sent_id="test-s118">
+    <text_sent>Doch es gibt Momente, da scheint der Wurm drin zu sein.</text_sent>
+    <verb>scheint</verb>
+    <sub>Wurm</sub>
+  </sentence>
+  <sentence n="23" sent_id="test-s147">
+    <text_sent>Falls man also mal nicht vor Ort ist bestellt man sich einfach die nötigen Medikamente nach Hause.</text_sent>
+    <verb>bestellt</verb>
+    <sub>man</sub>
+  </sentence>
+  <sentence n="24" sent_id="test-s148">
+    <text_sent>Fazit: Augen zu und durch, allerdings läßt der Preis nicht darauf schließen.</text_sent>
+    <verb>läßt</verb>
+    <sub>Preis</sub>
+  </sentence>
+  <sentence n="25" sent_id="test-s153">
+    <text_sent>Frühstück gibt es erst ab 8:00 Uhr.</text_sent>
+    <verb>gibt</verb>
+    <sub>es</sub>
+  </sentence>
+  <sentence n="26" sent_id="test-s161">
+    <text_sent>Gelernt haben wir auf den einfachen Galeonen, Sail &amp; Surf hat eine Riesenauswahl an weiteren Segelbooten -- von der Gleitjolle bis zur Regattajacht ist alles dabei.</text_sent>
+    <verb>Gelernt</verb>
+    <sub>wir</sub>
+  </sentence>
+  <sentence n="27" sent_id="test-s161">
+    <text_sent>Gelernt haben wir auf den einfachen Galeonen, Sail &amp; Surf hat eine Riesenauswahl an weiteren Segelbooten -- von der Gleitjolle bis zur Regattajacht ist alles dabei.</text_sent>
+    <verb>ist</verb>
+    <sub>alles</sub>
+  </sentence>
+  <sentence n="28" sent_id="test-s163">
+    <text_sent>Ging alles sehr schnell und kundenfreundlich</text_sent>
+    <verb>Ging</verb>
+    <sub>alles</sub>
+  </sentence>
+  <sentence n="29" sent_id="test-s166">
+    <text_sent>Gut und günstig, regelmäßig Live - Musik und für den Hunger zwischendurch gibt 's auch diverse Leckereien</text_sent>
+    <verb>gibt</verb>
+    <sub>'s</sub>
+  </sentence>
+  <sentence n="30" sent_id="test-s175">
+    <text_sent>Hat man diese Grundtechniken drauf, kann man diese in lockeren Sparrings mit anderen Mitgliedern testen.</text_sent>
+    <verb>Hat</verb>
+    <sub>man</sub>
+  </sentence>
+  <sentence n="31" sent_id="test-s177">
+    <text_sent>Hervorzuheben sind, die gute Beratung verbunden mit konstruktiven Vorschlägen in der Angebotsphase, die übersichtlichen und verständlichen Kostenvoranschläge, die qualitativ gute Ausführung des Auftrages sowie das freundliche Auftreten aller beteiligten Mitarbeiter.</text_sent>
+    <verb>sind</verb>
+    <sub>Beratung</sub>
+  </sentence>
+  <sentence n="32" sent_id="test-s178">
+    <text_sent>Heute, nach 3 Tagen geht es.</text_sent>
+    <verb>geht</verb>
+    <sub>es</sub>
+  </sentence>
+  <sentence n="33" sent_id="test-s201">
+    <text_sent>Im Anschluss gibt es Kaffee und Kuchen und die Möglichkeit zu einem Gespräch.</text_sent>
+    <verb>gibt</verb>
+    <sub>es</sub>
+  </sentence>
+  <sentence n="34" sent_id="test-s204">
+    <text_sent>In diesem Sinne wünsche ich allen Lesern eine gute und unfallfreie Fahrt.</text_sent>
+    <verb>wünsche</verb>
+    <sub>ich</sub>
+  </sentence>
+  <sentence n="35" sent_id="test-s205">
+    <text_sent>Insgesamt bezahlten wir für zwei Gerichte Wein und Kaffee, dann rund 40 Euro und dies war auch dem Ambiente entsprechend.</text_sent>
+    <verb>bezahlten</verb>
+    <sub>wir</sub>
+  </sentence>
+  <sentence n="36" sent_id="test-s219">
+    <text_sent>Letztendlich bezahlten wir für die Gläser aber den gleichen Preis wie bei jedem anderen Optiker</text_sent>
+    <verb>bezahlten</verb>
+    <sub>wir</sub>
+  </sentence>
+  <sentence n="37" sent_id="test-s232">
+    <text_sent>Nach zwei Tagen Funktioniert es immer noch nicht.</text_sent>
+    <verb>Funktioniert</verb>
+    <sub>es</sub>
+  </sentence>
+  <sentence n="38" sent_id="test-s245">
+    <text_sent>Schließlich jedoch fanden wir die Rettung im "Schienfatt".</text_sent>
+    <verb>fanden</verb>
+    <sub>wir</sub>
+  </sentence>
+  <sentence n="39" sent_id="test-s252">
+    <text_sent>Seit diser Zeit hatten wir einige Fälle zu klären und wir fühlten uns stets in guten Händen.</text_sent>
+    <verb>hatten</verb>
+    <sub>wir</sub>
+  </sentence>
+  <sentence n="40" sent_id="test-s253">
+    <text_sent>Seit einem Jahr oder so kochen wir dann regelmäßig am Abend das Rezept von der Gebauer Webseite nach, das von einem Sternekoch speziell für die Gebauer Kunden veröffentlicht wird.</text_sent>
+    <verb>kochen</verb>
+    <sub>wir</sub>
+  </sentence>
+  <sentence n="41" sent_id="test-s255">
+    <text_sent>Sicherlich gibt es viele Banken, die billigere Konzepte zu Finanzen, KOnten uvm anbieten, aber der persönlich Service und die Hilfe, die einem in finanziellen Fragen gegeben wird, bietet nur die Sparkasse.</text_sent>
+    <verb>gibt</verb>
+    <sub>es</sub>
+  </sentence>
+  <sentence n="42" sent_id="test-s255">
+    <text_sent>Sicherlich gibt es viele Banken, die billigere Konzepte zu Finanzen, KOnten uvm anbieten, aber der persönlich Service und die Hilfe, die einem in finanziellen Fragen gegeben wird, bietet nur die Sparkasse.</text_sent>
+    <verb>bietet</verb>
+    <sub>Sparkasse</sub>
+  </sentence>
+  <sentence n="43" sent_id="test-s267">
+    <text_sent>Trotzdem muß ich warten -- "nehmen Sie doch noch mal Platz."</text_sent>
+    <verb>nehmen</verb>
+    <sub>Sie</sub>
+  </sentence>
+  <sentence n="44" sent_id="test-s270">
+    <text_sent>Unkompliziert, schnell (innerhalb 2 Stunden) und günstig habe ich jetzt 4 neue Sommerreifen drauf (die waren sowieso runter).</text_sent>
+    <verb>habe</verb>
+    <sub>ich</sub>
+  </sentence>
+  <sentence n="45" sent_id="test-s271">
+    <text_sent>Unser 2 jähriger Sohn konnte bei vielem mitfahren, jedoch ist das Meiste ab 3.</text_sent>
+    <verb>ist</verb>
+    <sub>Meiste</sub>
+  </sentence>
+  <sentence n="46" sent_id="test-s276">
+    <text_sent>Vor Übergabe des Fahrzeugs an die Werkstatt war allerdings noch alles in Ordnung...</text_sent>
+    <verb>war</verb>
+    <sub>alles</sub>
+  </sentence>
+  <sentence n="47" sent_id="test-s277">
+    <text_sent>Während viele Apotheken heutzutage mit unmotivierten Mitarbeitern den Kunden eher vergraulen, findet man hier in Warendorf motivierte Mitarbeiter die stets freundlich sind.</text_sent>
+    <verb>findet</verb>
+    <sub>man</sub>
+  </sentence>
+  <sentence n="48" sent_id="test-s300">
+    <text_sent>Zusätzlich bekam man Kopfschmerzen nach einer kurzen Zeit.</text_sent>
+    <verb>bekam</verb>
+    <sub>man</sub>
+  </sentence>
+  <sentence n="49" sent_id="test-s303">
+    <text_sent>"Aber das Gericht hat dies nicht mit der Eindeutigkeit und der Klarheit getan, die wir uns gewünscht hätten'', sagte er."</text_sent>
+    <verb>sagte</verb>
+    <sub>er</sub>
+  </sentence>
+  <sentence n="50" sent_id="test-s305">
+    <text_sent>"Außenbezirken der Stadt kam es nach Militärangaben zu schweren Gefechten."</text_sent>
+    <verb>kam</verb>
+    <sub>es</sub>
+  </sentence>
+  <sentence n="51" sent_id="test-s312">
+    <text_sent>"Kein einziger Neuankömmling'', meldete die Wiener Zentrale."</text_sent>
+    <verb>meldete</verb>
+    <sub>Wiener</sub>
+  </sentence>
+  <sentence n="52" sent_id="test-s313">
+    <text_sent>"mit Hilfe der aus anderen Orten herbeigeeilten Militäreinheiten und mit Verhängung des Ausnahmezustandes gelang es den lokalen Machthabern, der Lage Herr zu werden."</text_sent>
+    <verb>gelang</verb>
+    <sub>es</sub>
+  </sentence>
+  <sentence n="53" sent_id="test-s319">
+    <text_sent>"Weine sind fast durchweg trocken, viele sollten jung getrunken werden, sonst verlieren sie."</text_sent>
+    <verb>verlieren</verb>
+    <sub>sie</sub>
+  </sentence>
+  <sentence n="54" sent_id="test-s324">
+    <text_sent>Die 27. Große Strafkammer beriet zunächst hinter verschlossenen Türen, dann eröffnete Bräutigam das Verfahren 527-1 / 95 dennoch.</text_sent>
+    <verb>eröffnete</verb>
+    <sub>Bräutigam</sub>
+  </sentence>
+  <sentence n="55" sent_id="test-s327">
+    <text_sent>Im Abgeordnetenhaus, sonst ein Ort scharfer, aber peinlich auf gute Formen achtender Debatten, flogen die Fetzen auf niedrigstem Niveau.</text_sent>
+    <verb>flogen</verb>
+    <sub>Fetzen</sub>
+  </sentence>
+  <sentence n="56" sent_id="test-s330">
+    <text_sent>Denn als Sahlin, die nach den höchsten Ämtern in Partei und Regierung strebte, wegen des Mißbrauchs staatlicher Kreditkarten für private Zwecke zur Rechenschaft gezogen wurde, nutzte sie ihren hektischen Alltag als Politikerin und Mutter von drei Kindern wirkungsvoll zu ihrer Verteidigung:</text_sent>
+    <verb>nutzte</verb>
+    <sub>sie</sub>
+  </sentence>
+  <sentence n="57" sent_id="test-s333">
+    <text_sent>Am Anfang eines Films steht immer die Musikalität, der Rhythmus.</text_sent>
+    <verb>steht</verb>
+    <sub>Musikalität</sub>
+  </sentence>
+  <sentence n="58" sent_id="test-s336">
+    <text_sent>Den Angriff führte die Regierung vor allem auf dem Feld, auf dem sie selbst nach dem Massaker in Boipatong am ärgsten in Bedrängnis geraten war: der anhaltenden Gewalt.</text_sent>
+    <verb>führte</verb>
+    <sub>Regierung</sub>
+  </sentence>
+  <sentence n="59" sent_id="test-s337">
+    <text_sent>Die Anhänger Nichtwalesas schreckt die Vision, daß ein ihrer Meinung nach unberechenbarer Elektriker mit ungeschliffener Sprache Polen ins Jahr 2000 führen könnte;</text_sent>
+    <verb>schreckt</verb>
+    <sub>Vision</sub>
+  </sentence>
+  <sentence n="60" sent_id="test-s347">
+    <text_sent>Der Bahn fehlten in den nächsten zehn Jahren bis zu 400 Milliarden Mark, für die Waigel nicht ausreichend Vorsorge getroffen habe.</text_sent>
+    <verb>fehlten</verb>
+    <sub>Mark</sub>
+  </sentence>
+  <sentence n="61" sent_id="test-s351">
+    <text_sent>Mit Blick auf die Währungsunion sieht das WSI Vor- und Nachteile.</text_sent>
+    <verb>sieht</verb>
+    <sub>WSI</sub>
+  </sentence>
+  <sentence n="62" sent_id="test-s354">
+    <text_sent>Ein Boykott könne auch auf Kosten von Arbeitsplätzen in den alten Ländern gehen, meinte er weiter in der Berliner ``Sonntagspost''.</text_sent>
+    <verb>meinte</verb>
+    <sub>er</sub>
+  </sentence>
+  <sentence n="63" sent_id="test-s364">
+    <text_sent>``Da kommen die anderen Vereine in Deutschland nicht annähernd mit'', verschlug es dem ansonsten nicht auf den Mund gefallenen Bremer Kollegen Willi Lemke fast die Sprache.</text_sent>
+    <verb>kommen</verb>
+    <sub>Vereine</sub>
+  </sentence>
+  <sentence n="64" sent_id="test-s364">
+    <text_sent>``Da kommen die anderen Vereine in Deutschland nicht annähernd mit'', verschlug es dem ansonsten nicht auf den Mund gefallenen Bremer Kollegen Willi Lemke fast die Sprache.</text_sent>
+    <verb>verschlug</verb>
+    <sub>es</sub>
+  </sentence>
+  <sentence n="65" sent_id="test-s366">
+    <text_sent>``Dann steigen die Kosten, aber mein Umsatz bleibt gleich.''</text_sent>
+    <verb>steigen</verb>
+    <sub>Kosten</sub>
+  </sentence>
+  <sentence n="66" sent_id="test-s367">
+    <text_sent>Nach Darstellung Dokos rücken bosnische und kroatische Kräfte an mehreren Fronten vor und könnten den Ring um Sarajewo von außen sprengen.</text_sent>
+    <verb>rücken</verb>
+    <sub>Kräfte</sub>
+  </sentence>
+  <sentence n="67" sent_id="test-s368">
+    <text_sent>``Das Damoklesschwert einer militärischen Intervention wird über den Serben hängen'', hieß es in der deutschen Delegation.</text_sent>
+    <verb>hieß</verb>
+    <sub>es</sub>
+  </sentence>
+  <sentence n="68" sent_id="test-s369">
+    <text_sent>``Das ist die erste intelligente Äußerung, die ich von der IG Metall seit Jahren höre'', sagte Stihl der FR.</text_sent>
+    <verb>sagte</verb>
+    <sub>Stihl</sub>
+  </sentence>
+  <sentence n="69" sent_id="test-s371">
+    <text_sent>Die Demokratie müsse direkter werden, sagte sie.</text_sent>
+    <verb>sagte</verb>
+    <sub>sie</sub>
+  </sentence>
+  <sentence n="70" sent_id="test-s372">
+    <text_sent>Das Denkmal und die authentischen Tatorte seien keine Alternative, betonte der Vorsitzende der Jüdischen Gemeinde zu Berlin, Jerzy Kanal.</text_sent>
+    <verb>betonte</verb>
+    <sub>Vorsitzende</sub>
+  </sentence>
+  <sentence n="71" sent_id="test-s376">
+    <text_sent>``Die Einrichtungen der evangelischen Kirche benötigen Wärme und Energie in der Größenordnung einer Stadt wie Hannover'', sagt Uwe Ilgemann vom Öko-Institut Freiburg.</text_sent>
+    <verb>sagt</verb>
+    <sub>Uwe</sub>
+  </sentence>
+  <sentence n="72" sent_id="test-s378">
+    <text_sent>``Die lokale Nähe von Universität und Wirtschaft ist sehr wichtig'', betont Stanford-Vizedekan George Parker, ``leider machen sich viele unserer besten Dozenten irgendwann selbständig''.</text_sent>
+    <verb>betont</verb>
+    <sub>Stanford</sub>
+  </sentence>
+  <sentence n="73" sent_id="test-s378">
+    <text_sent>``Die lokale Nähe von Universität und Wirtschaft ist sehr wichtig'', betont Stanford-Vizedekan George Parker, ``leider machen sich viele unserer besten Dozenten irgendwann selbständig''.</text_sent>
+    <verb>machen</verb>
+    <sub>viele</sub>
+  </sentence>
+  <sentence n="74" sent_id="test-s381">
+    <text_sent>``Die wollen, daß ich im Westjordanland oder im Gaza-Streifen eine Fabrik baue'', erzählt der Fleischfabrikant Heinz Annuss.</text_sent>
+    <verb>erzählt</verb>
+    <sub>Fleischfabrikant</sub>
+  </sentence>
+  <sentence n="75" sent_id="test-s395">
+    <text_sent>``Es handelt sich wieder einmal um die falsche Fragestellung'', moniert Katrin Grüber.</text_sent>
+    <verb>moniert</verb>
+    <sub>Katrin</sub>
+  </sentence>
+  <sentence n="76" sent_id="test-s396">
+    <text_sent>``Es ist ein Bohren von dicken Brettern'', sagte Professor Manfred Bauer, einer der Väter der Sozialpsychiatrie in Deutschland.</text_sent>
+    <verb>sagte</verb>
+    <sub>Professor</sub>
+  </sentence>
+  <sentence n="77" sent_id="test-s399">
+    <text_sent>``Es zog sie den ganzen Sommer schon so unwiderstehlich in die Schweiz, sie wollte noch die lieben Berge, Wärme und Sonnenschein genießen und hat sie genossen mit dem Gefühl gebesserter Gesundheit'', berichtet Valerie, die Tochter von Sisi.</text_sent>
+    <verb>berichtet</verb>
+    <sub>Valerie</sub>
+  </sentence>
+  <sentence n="78" sent_id="test-s412">
+    <text_sent>Ein Friedensabkommen sei nur noch eine Frage von Tagen, hieß es.</text_sent>
+    <verb>hieß</verb>
+    <sub>es</sub>
+  </sentence>
+  <sentence n="79" sent_id="test-s414">
+    <text_sent>,Für Frauen wurde nichts besser'</text_sent>
+    <verb>wurde</verb>
+    <sub>nichts</sub>
+  </sentence>
+  <sentence n="80" sent_id="test-s416">
+    <text_sent>Zwei Geiseln seien nach Angaben der Entführer leicht erkrankt, würden aber behandelt, erklärte ein Behördensprecher.</text_sent>
+    <verb>erklärte</verb>
+    <sub>Behördensprecher</sub>
+  </sentence>
+  <sentence n="81" sent_id="test-s426">
+    <text_sent>Grund: am 6. Mai vergangenen Jahres erließen die Zollbehörden des Landes Vorarlberg eine ``Hofdüngereinfuhrsperre'' für Bauern aus der Schweizer Nachbarschaft, die jenseits der Landesgrenze auf österreichischem Hoheitsgebiet seit Jahrzehnten Pachtland bewirtschaften.</text_sent>
+    <verb>erließen</verb>
+    <sub>Zollbehörden</sub>
+  </sentence>
+  <sentence n="82" sent_id="test-s433">
+    <text_sent>Schon im vergangenen Sommer schien die Vertragsverlängerung (bis 2001) für Gérard Mortier, den Intendanten der Salzburger Festspiele seit 1991, unmittelbar bevorzustehen und gleichsam nur mehr eine Formsache.</text_sent>
+    <verb>schien</verb>
+    <sub>Vertragsverlängerung</sub>
+  </sentence>
+  <sentence n="83" sent_id="test-s435">
+    <text_sent>In dieser Getto-Situation suchen sie Zuflucht in einer, kurdischen Identität, 'was zu einer wachsenden Radikalisierung führt'', heißt es in der Studie.</text_sent>
+    <verb>suchen</verb>
+    <sub>sie</sub>
+  </sentence>
+  <sentence n="84" sent_id="test-s435">
+    <text_sent>In dieser Getto-Situation suchen sie Zuflucht in einer, kurdischen Identität, 'was zu einer wachsenden Radikalisierung führt'', heißt es in der Studie.</text_sent>
+    <verb>heißt</verb>
+    <sub>es</sub>
+  </sentence>
+  <sentence n="85" sent_id="test-s442">
+    <text_sent>Die Islam-Konferenz als solche ``ist und bleibt unumstritten'', sagte Kinkel am Sonntag.</text_sent>
+    <verb>sagte</verb>
+    <sub>Kinkel</sub>
+  </sentence>
+  <sentence n="86" sent_id="test-s444">
+    <text_sent>Wenige Jahre später beschrieb Daniel Bell die post-industrielle Gesellschaft durch Wissensarbeit, Ressourcenschonung und die Verschiebung der Arbeit vom Produktions- in den Dienstleistungssektor.</text_sent>
+    <verb>beschrieb</verb>
+    <sub>Daniel</sub>
+  </sentence>
+  <sentence n="87" sent_id="test-s479">
+    <text_sent>Naturalien, meint die HBV -- Frau, ``lassen wir auf Dauer nicht uns abspeisen''.</text_sent>
+    <verb>meint</verb>
+    <sub>HBV</sub>
+  </sentence>
+  <sentence n="88" sent_id="test-s479">
+    <text_sent>Naturalien, meint die HBV -- Frau, ``lassen wir auf Dauer nicht uns abspeisen''.</text_sent>
+    <verb>lassen</verb>
+    <sub>wir</sub>
+  </sentence>
+  <sentence n="89" sent_id="test-s492">
+    <text_sent>Überdurchschnittliche Perspektiven sieht Analyst Rolf Schneider für Deutschland.</text_sent>
+    <verb>sieht</verb>
+    <sub>Analyst</sub>
+  </sentence>
+  <sentence n="90" sent_id="test-s505">
+    <text_sent>Der Romancier, Journalist und Bühnenautor beschrieb in sieben Romanen und vier Sachbüchern beschrieb Jose Yglesias vor allem das Leben mittel- und südamerikanischer Emigranten und Exilkubaner in den USA sowie derer, die zu Hause blieben.</text_sent>
+    <verb>beschrieb</verb>
+    <sub>Jose</sub>
+  </sentence>
+  <sentence n="91" sent_id="test-s508">
+    <text_sent>Schritt des IG-Metall-Vorsitzenden Klaus Zwickel, der Unternehmern und Regierung ein ``Bündnis für Arbeit'' angeboten hat, sagte Kanzler Kohl am Mittwoch im Bundestag ``: Wir werden dieses Angebot aufnehmen und darüber sprechen.''</text_sent>
+    <verb>sagte</verb>
+    <sub>Kanzler</sub>
+  </sentence>
+  <sentence n="92" sent_id="test-s514">
+    <text_sent>Sagen Sie, daß Sie sich das nicht mehr gefallen lassen'', ruft er den Frauen und Männern zu.</text_sent>
+    <verb>Sagen</verb>
+    <sub>Sie</sub>
+  </sentence>
+  <sentence n="93" sent_id="test-s514">
+    <text_sent>Sagen Sie, daß Sie sich das nicht mehr gefallen lassen'', ruft er den Frauen und Männern zu.</text_sent>
+    <verb>ruft</verb>
+    <sub>er</sub>
+  </sentence>
+  <sentence n="94" sent_id="test-s517">
+    <text_sent>``So sicher sind wir uns heute nicht mehr'', sagt Braun.</text_sent>
+    <verb>sagt</verb>
+    <sub>Braun</sub>
+  </sentence>
+  <sentence n="95" sent_id="test-s519">
+    <text_sent>Wole Soyinka bringt gern Festbräuche auf die Bühne, und trotz seiner bitteren Erfahrungen gibt er der lächelnden Komödie, die nicht zu seinen besten gehören mag, einen hoffnungsvollen, fast märchenhaften Schluß.</text_sent>
+    <verb>gibt</verb>
+    <sub>er</sub>
+  </sentence>
+  <sentence n="96" sent_id="test-s525">
+    <text_sent>Die Staats- und Regierungschefs sollten auf ihrem Gipfeltreffen Mitte Dezember in Madrid über die Eckpunkte eines Szenarios für den Übergang in die Endstufe des Geldverbundes sowie über den endgültigen Namen der gemeinsamen Währung entscheiden, meint die Organisation des privaten Kreditgewerbes.</text_sent>
+    <verb>meint</verb>
+    <sub>Organisation</sub>
+  </sentence>
+  <sentence n="97" sent_id="test-s526">
+    <text_sent>Russische Staatsbürger in anderen Republiken der Gemeinschaft Unabhängiger Staaten (GUS) müßten zwar beschützt werden, doch dürfe dies nur mit politischen Mitteln geschehen, sagte Jelzin in Moskau.</text_sent>
+    <verb>sagte</verb>
+    <sub>Jelzin</sub>
+  </sentence>
+  <sentence n="98" sent_id="test-s535">
+    <text_sent>Die Todesurteile gegen die neun Angeklagte und ihre Hinrichtung seien ``auf der Grundlage eines Urteils eines rechtmäßig konstituierten Gerichts vollzogen worden, das die neun Männer des Mordes für schuldig befunden hatte'', sagte der juristische Berater von Staatschef Sani Abacha, Hawalu Yadudu, nach Angaben der Nachrichtenagentur NAN am Montag in Abuja.</text_sent>
+    <verb>sagte</verb>
+    <sub>Berater</sub>
+  </sentence>
+  <sentence n="99" sent_id="test-s536">
+    <text_sent>``Unabdingbare Voraussetzung'', heißt es in dem Bericht, sei ein hohes Maß an dauerhafter Konvergenz der gesamtwirtschaftlichen Leistung dieser Staaten.</text_sent>
+    <verb>heißt</verb>
+    <sub>es</sub>
+  </sentence>
+  <sentence n="100" sent_id="test-s538">
+    <text_sent>Als Ursache für die Schwierigkeiten der Firma nennt er ``außergewöhnliche Faktoren''.</text_sent>
+    <verb>nennt</verb>
+    <sub>er</sub>
+  </sentence>
+  <sentence n="101" sent_id="test-s544">
+    <text_sent>Leicht verletzt wurde eine Korrespondentin des deutschen ARD-Fernsehens.</text_sent>
+    <verb>verletzt</verb>
+    <sub>Korrespondentin</sub>
+  </sentence>
+  <sentence n="102" sent_id="test-s551">
+    <text_sent>Starr vor Entsetzen habe er mit ansehen müssen, wie sein Freund in den vermeintlich sicheren Tod stürzte, berichtete der unverletzt gebliebene Jones.</text_sent>
+    <verb>berichtete</verb>
+    <sub>Jones</sub>
+  </sentence>
+  <sentence n="103" sent_id="test-s556">
+    <text_sent>Und während DRV-Präsident Gerd Hesselmann noch auf die Unvergleichbarkeit touristischer Leistungen verweist, fordern andere Branchenvertreter bereits eine CD-ROM, mit der sich die Preise der verschiedenen Veranstalter vergleichen lassen.</text_sent>
+    <verb>fordern</verb>
+    <sub>Branchenvertreter</sub>
+  </sentence>
+  <sentence n="104" sent_id="test-s560">
+    <text_sent>``Wer in Arbeitsgruppen arbeitet, kann das auch noch zwei Tage vorher mit seinen Kollegen abmachen'', sagte Personalchef Bernd Richter dazu.</text_sent>
+    <verb>sagte</verb>
+    <sub>Personalchef</sub>
+  </sentence>
+  <sentence n="105" sent_id="test-s561">
+    <text_sent>Wie es dem Stahl geht, so geht es dem Land.</text_sent>
+    <verb>geht</verb>
+    <sub>es</sub>
+  </sentence>
+  <sentence n="106" sent_id="test-s564">
+    <text_sent>``Wir haben alle Formulierungen vermieden, die irgendein Gesetz in Kuba verletzen könnten'', erklärt mit milder Stimme Castellanos, ``und das hat uns dennoch nicht vor dem Rausschmiß bewahrt.''</text_sent>
+    <verb>erklärt</verb>
+    <sub>Castellanos</sub>
+  </sentence>
+  <sentence n="107" sent_id="test-s565">
+    <text_sent>``Wir haben die faulste Regierung und den faulsten Ministerpräsidenten der Republik'', monierte Müller.</text_sent>
+    <verb>monierte</verb>
+    <sub>Müller</sub>
+  </sentence>
+  <sentence n="108" sent_id="test-s567">
+    <text_sent>``Wir lieben uns'', versichert McCartney.</text_sent>
+    <verb>versichert</verb>
+    <sub>McCartney</sub>
+  </sentence>
+  <sentence n="109" sent_id="test-s569">
+    <text_sent>``Wir säubern das Terrain für 1996'', sagt Stark.</text_sent>
+    <verb>sagt</verb>
+    <sub>Stark</sub>
+  </sentence>
+  <sentence n="110" sent_id="test-s571">
+    <text_sent>``Wir wollen noch mehr'', betont Omicevic.</text_sent>
+    <verb>betont</verb>
+    <sub>Omicevic</sub>
+  </sentence>
+  <sentence n="111" sent_id="test-s574">
+    <text_sent>(Wo sie fehlen, sagt man, täten es in diesem Fall auch mal Repliken.)</text_sent>
+    <verb>sagt</verb>
+    <sub>man</sub>
+  </sentence>
+  <sentence n="112" sent_id="test-s574">
+    <text_sent>(Wo sie fehlen, sagt man, täten es in diesem Fall auch mal Repliken.)</text_sent>
+    <verb>täten</verb>
+    <sub>Repliken</sub>
+  </sentence>
+  <sentence n="113" sent_id="test-s575">
+    <text_sent>``Wollt ihr den Bruch mit dem System?</text_sent>
+    <verb>Wollt</verb>
+    <sub>ihr</sub>
+  </sentence>
+  <sentence n="114" sent_id="test-s580">
+    <text_sent>``Zum ersten Mal in der Geschichte einer deutschen Großbank können nicht nur bestimmte Mitarbeitergruppen, sondern alle Arbeitnehmer Optionen erwerben'', lobt sich das Institut.</text_sent>
+    <verb>lobt</verb>
+    <sub>Institut</sub>
+  </sentence>
+  <sentence n="115" sent_id="test-s581">
+    <text_sent>In dem Gespräch am Dienstag nachmittag verzichteten die Innenpolitiker der Koalition deswegen erneut darauf, einen Beschluß über die erleichterte Einbürgerung zu formulieren.</text_sent>
+    <verb>verzichteten</verb>
+    <sub>Innenpolitiker</sub>
+  </sentence>
+  <sentence n="116" sent_id="test-s584">
+    <text_sent>Im DGB herrscht nicht nur eitle Freude über den zweiten Zusammenschluß in der Geschichte der Dachorganisation.</text_sent>
+    <verb>herrscht</verb>
+    <sub>Freude</sub>
+  </sentence>
+  <sentence n="117" sent_id="test-s585">
+    <text_sent>In die Schlagzeilen geriet vor allem das zu Ihrem Einzugsbereich zählende Revier Bernau, wo Beamte Vietnamesen mißhandelten.</text_sent>
+    <verb>geriet</verb>
+    <sub>Revier</sub>
+  </sentence>
+  <sentence n="118" sent_id="test-s590">
+    <text_sent>In Madrid hieß es, über 500 spanische Transporter mit frischem Obst und Gemüse steckten in den Staus auf Frankreichs Autobahnen.</text_sent>
+    <verb>hieß</verb>
+    <sub>es</sub>
+  </sentence>
+  <sentence n="119" sent_id="test-s591">
+    <text_sent>Nach Meinungsumfragen liegt der parteilose Selfmademan gut im Rennen um den Chefsessel im Weißen Haus mit dem amtierenden Präsidenten George Bush und dem Demokraten Bill Clinton.</text_sent>
+    <verb>liegt</verb>
+    <sub>Selfmademan</sub>
+  </sentence>
+  <sentence n="120" sent_id="test-s593">
+    <text_sent>Mit Neid verfolgen die Gewerkschaften den verbissenen Ernst der Bemühungen, um die ``Stabilitätskriterien'' für die geplante Währungsunion einzuhalten.</text_sent>
+    <verb>verfolgen</verb>
+    <sub>Gewerkschaften</sub>
+  </sentence>
+  <sentence n="121" sent_id="test-s595">
+    <text_sent>In Paris selbst nahmen zur gleichen Zeit rund tausend Studenten an einer Kundgebung im Quartier Latin teil.</text_sent>
+    <verb>nahmen</verb>
+    <sub>Studenten</sub>
+  </sentence>
+  <sentence n="122" sent_id="test-s596">
+    <text_sent>In Passau existiert seit gut 20 Jahren eine Universität, wo so gut oder so schlecht gelehrt und geforscht wird wie an anderen deutschen Universitäten auch.</text_sent>
+    <verb>existiert</verb>
+    <sub>Universität</sub>
+  </sentence>
+  <sentence n="123" sent_id="test-s598">
+    <text_sent>Tritt Schröder gegen Scharping bei der Wahl zum Parteichef an?</text_sent>
+    <verb>Tritt</verb>
+    <sub>Schröder</sub>
+  </sentence>
+  <sentence n="124" sent_id="test-s600">
+    <text_sent>Bei dem Stuttgarter Prozeß gegen Geiselnehmer zeigt einer der beiden Angeklagten Reue.</text_sent>
+    <verb>zeigt</verb>
+    <sub>einer</sub>
+  </sentence>
+  <sentence n="125" sent_id="test-s602">
+    <text_sent>Der Tradition entsprechend haben beide Seiten Geschenke an Bord.</text_sent>
+    <verb>haben</verb>
+    <sub>Seiten</sub>
+  </sentence>
+  <sentence n="126" sent_id="test-s603">
+    <text_sent>Bei Verladearbeiten in einer Halle sei eines der Fässer mit dem Konzentrat abgestürzt, hieß es.</text_sent>
+    <verb>hieß</verb>
+    <sub>es</sub>
+  </sentence>
+  <sentence n="127" sent_id="test-s614">
+    <text_sent>Hat das denn zur Folge, daß die Jugendlichen sich Orientierungen suchen außerhalb der bislang traditionellen Vorbilder aus Familie und Schule?</text_sent>
+    <verb>Hat</verb>
+    <sub>das</sub>
+  </sentence>
+  <sentence n="128" sent_id="test-s617">
+    <text_sent>``Dies ist der bestmögliche Kompromiß'', sagte Gratschow am Samstag in Moskau.</text_sent>
+    <verb>sagte</verb>
+    <sub>Gratschow</sub>
+  </sentence>
+  <sentence n="129" sent_id="test-s618">
+    <text_sent>``Das Kartellamt ist grundsätzlich reaktiv'', argumentiert SPD-Experte Börnsen.</text_sent>
+    <verb>argumentiert</verb>
+    <sub>Experte</sub>
+  </sentence>
+  <sentence n="130" sent_id="test-s620">
+    <text_sent>``Die haben noch nicht unsere Neurose, sich immer streng unter Kontrolle haben zu müssen'', befindet der Lachspezialist.</text_sent>
+    <verb>befindet</verb>
+    <sub>Lachspezialist</sub>
+  </sentence>
+  <sentence n="131" sent_id="test-s622">
+    <text_sent>Statt Details zu nennen, wiederholt er unverdrossen die ``Erfolgsformel'':</text_sent>
+    <verb>wiederholt</verb>
+    <sub>er</sub>
+  </sentence>
+  <sentence n="132" sent_id="test-s623">
+    <text_sent>``Den Herren Rao und Singh gebührt ein Platz in der Geschichte'', resumiert das britische Blatt.</text_sent>
+    <verb>gebührt</verb>
+    <sub>Platz</sub>
+  </sentence>
+  <sentence n="133" sent_id="test-s623">
+    <text_sent>``Den Herren Rao und Singh gebührt ein Platz in der Geschichte'', resumiert das britische Blatt.</text_sent>
+    <verb>resumiert</verb>
+    <sub>Blatt</sub>
+  </sentence>
+  <sentence n="134" sent_id="test-s624">
+    <text_sent>Deshalb drängt Rao seinen Finanzminister, noch stärker die Werbetrommel bei ausländischen Investoren zu rühren, noch mehr in Optimismus zu machen.</text_sent>
+    <verb>drängt</verb>
+    <sub>Rao</sub>
+  </sentence>
+  <sentence n="135" sent_id="test-s628">
+    <text_sent>Meinen Sie, das ist eine Chance, um einen Konsens im Umgang mit Rechtsradikalen zu finden?</text_sent>
+    <verb>Meinen</verb>
+    <sub>Sie</sub>
+  </sentence>
+  <sentence n="136" sent_id="test-s630">
+    <text_sent>Dabei bescheinigen unabhängige Beobachter der Autonomen Antifa (M) zwar ein ausgesprochen staatskritisches Weltbild, doch keine Neigung zum Bombenlegen.</text_sent>
+    <verb>bescheinigen</verb>
+    <sub>Beobachter</sub>
+  </sentence>
+  <sentence n="137" sent_id="test-s633">
+    <text_sent>Nachdem sich sein übereifriger Sportkumpel beharrlich weigerte, dem Gerempelten Schmerzensgeld und einen Ausgleich für den erlittenen Verdienstausfall zu zahlen, zog der Kikker vor Gericht -- und verlor.</text_sent>
+    <verb>zog</verb>
+    <sub>Kikker</sub>
+  </sentence>
+  <sentence n="138" sent_id="test-s634">
+    <text_sent>Einem diplomatischen Notenwechsel zwischen der Schweizer Botschaft in Wien und dem österreichischen Außenministerium zufolge geschieht dies alles ``im öffentlichen Interesse'', damit die Gesundheit der Vorarlberger geschützt und diese vor unzumutbaren Belästigungen verschont würden.</text_sent>
+    <verb>geschieht</verb>
+    <sub>dies</sub>
+  </sentence>
+  <sentence n="139" sent_id="test-s636">
+    <text_sent>``Wie kann man nur jahrelang so pennen und immer die Wohnungen vergessen'', ärgert sich Pahlke.</text_sent>
+    <verb>ärgert</verb>
+    <sub>Pahlke</sub>
+  </sentence>
+  <sentence n="140" sent_id="test-s644">
+    <text_sent>Wenn auch viele Kubaner ihre Teilnahme ohne Konsequenzen verweigern konnten, so wurde Violeta Romeros hartnäckige Ablehnung letztlich für ihren Rausschmiß aus der Partei benutzt, erzählt ihr Ehemann.</text_sent>
+    <verb>erzählt</verb>
+    <sub>Ehemann</sub>
+  </sentence>
+  <sentence n="141" sent_id="test-s647">
+    <text_sent>Für die Bürger schafft das die einzige Möglichkeit, zu kontrollieren und nachzuvollzuehen, was die Politik will Frage.</text_sent>
+    <verb>schafft</verb>
+    <sub>das</sub>
+  </sentence>
+  <sentence n="142" sent_id="test-s650">
+    <text_sent>Für seinen westdeutschen Berater Erwin Heitmann hat der Agrarbetrieb der Zukunft, sofern er keine Tiere hält, 1000 Hektar Land, aber nicht mehr als eine Handvoll Arbeitskräfte:</text_sent>
+    <verb>hat</verb>
+    <sub>Agrarbetrieb</sub>
+  </sentence>
+  <sentence n="143" sent_id="test-s651">
+    <text_sent>Bisher gibt es in ganz Ostdeutschland erst einige tausend ``Wiedereinrichter'', die wie Holm auf der einst zwangskollektivierten Scholle neu anfangen.</text_sent>
+    <verb>gibt</verb>
+    <sub>es</sub>
+  </sentence>
+  <sentence n="144" sent_id="test-s652">
+    <text_sent>Mit der Auflösung der LPGs droht in Ostdeutschland eine dramatische Flächenzersplitterung, denn viele der zwangskollektivierten Kleinbauern besaßen nur wenige Hektar.</text_sent>
+    <verb>droht</verb>
+    <sub>Flächenzersplitterung</sub>
+  </sentence>
+  <sentence n="145" sent_id="test-s656">
+    <text_sent>In ihrem ersten Bericht über den Staat schreibt die in Paris ansässige Organisation, das 1990 beschlossene ``bahnbrechende Programm zur Umwandlung der Wirtschaft'' habe ``drastische Verbesserungen'' gebracht.</text_sent>
+    <verb>schreibt</verb>
+    <sub>Organisation</sub>
+  </sentence>
+  <sentence n="146" sent_id="test-s658">
+    <text_sent>Mit allabendlich ausgestrahlten Fernsehspots wie diesem sucht Andreas Andrianopoulos, der griechische Minister für Handel und Industrie, seinen Landsleuten die Vorzüge seines Privatisierungsprogramms nahezubringen:</text_sent>
+    <verb>sucht</verb>
+    <sub>Andreas</sub>
+  </sentence>
+  <sentence n="147" sent_id="test-s659">
+    <text_sent>So hatte Finanzminister Ioannis Paleokrassas im vergangenen Jahr gehofft, mit dem Verkauf von Staatsbetrieben seine Haushaltseinnahmen um 1,5 Milliarden Mark aufbessern zu können -- tatsächlich kamen aber nicht einmal hundert Millionen Mark in die Kasse.</text_sent>
+    <verb>kamen</verb>
+    <sub>Mark</sub>
+  </sentence>
+  <sentence n="148" sent_id="test-s660">
+    <text_sent>Von den Banken gelang es während der vergangenen Monate, rund drei Dutzend zu veräußern.</text_sent>
+    <verb>gelang</verb>
+    <sub>es</sub>
+  </sentence>
+  <sentence n="149" sent_id="test-s662">
+    <text_sent>Verschärft stellen sich die Probleme für Frauen dar, die oft freiwillig in Nachtschicht gehen, ``weil das familiär für mich ideal ist''.</text_sent>
+    <verb>stellen</verb>
+    <sub>Probleme</sub>
+  </sentence>
+  <sentence n="150" sent_id="test-s666">
+    <text_sent>Während überall und weit über die Kirchen hinaus Methoden der ``Geistversenkung und Geistmitteilung'' angeboten würden, ``verfestigt sich kirchlich die autoritäre Struktur'', schreibt er zugleich.</text_sent>
+    <verb>verfestigt</verb>
+    <sub>Struktur</sub>
+  </sentence>
+  <sentence n="151" sent_id="test-s666">
+    <text_sent>Während überall und weit über die Kirchen hinaus Methoden der ``Geistversenkung und Geistmitteilung'' angeboten würden, ``verfestigt sich kirchlich die autoritäre Struktur'', schreibt er zugleich.</text_sent>
+    <verb>schreibt</verb>
+    <sub>er</sub>
+  </sentence>
+  <sentence n="152" sent_id="test-s668">
+    <text_sent>``Während die Regierung sich und das Land von der Apartheid befreit hat'', hieß es in dem Dokument, ``hat der ANC sich noch immer nicht dem demokratischen politischen Wettbewerb angepaßt.''</text_sent>
+    <verb>hieß</verb>
+    <sub>es</sub>
+  </sentence>
+  <sentence n="153" sent_id="test-s669">
+    <text_sent>Für nach 1986 gebaute respektive gekaufte Häuser entfällt der Ansatz eines Mietwertes für die eigene Wohnung.</text_sent>
+    <verb>entfällt</verb>
+    <sub>Ansatz</sub>
+  </sentence>
+  <sentence n="154" sent_id="test-s670">
+    <text_sent>Wie die Behörden mitteilten, waren darunter drei Fahrzeuge einer britischen Fernsehgesellschaft.</text_sent>
+    <verb>waren</verb>
+    <sub>Fahrzeuge</sub>
+  </sentence>
+  <sentence n="155" sent_id="test-s686">
+    <text_sent>Die SPD wolle die Verabschiedung des Berichts rückgängig machen, sagte Landesvorsitzender Steffen Reiche am Sonntag.</text_sent>
+    <verb>sagte</verb>
+    <sub>Landesvorsitzender</sub>
+  </sentence>
+  <sentence n="156" sent_id="test-s687">
+    <text_sent>Am Sonntag abend beendeten die Bauern ihre Blockaden.</text_sent>
+    <verb>beendeten</verb>
+    <sub>Bauern</sub>
+  </sentence>
+  <sentence n="157" sent_id="test-s693">
+    <text_sent>Herausgegeben würden sie von dem Oxforder Historiker Norman Stone.</text_sent>
+    <verb>Herausgegeben</verb>
+    <sub>sie</sub>
+  </sentence>
+  <sentence n="158" sent_id="test-s701">
+    <text_sent>``Lächerlich und inhuman'' sei das Machwerk, eine ``Zumutung'', befand Rauf Denktasch, Chef der türkischen Volksgruppe im Norden Zyperns.</text_sent>
+    <verb>befand</verb>
+    <sub>Rauf</sub>
+  </sentence>
+  <sentence n="159" sent_id="test-s704">
+    <text_sent>So geht es fast immer, wenn Manfred Stolpe auf Kreisbereisung unterwegs ist.</text_sent>
+    <verb>geht</verb>
+    <sub>es</sub>
+  </sentence>
+  <sentence n="160" sent_id="test-s706">
+    <text_sent>So steht es im Einigungsvertrag.</text_sent>
+    <verb>steht</verb>
+    <sub>es</sub>
+  </sentence>
+  <sentence n="161" sent_id="test-s709">
+    <text_sent>Eröffnet wird der 18. Wirtschaftsgipfel von Bundeskanzler Helmut Kohl (CDU).</text_sent>
+    <verb>Eröffnet</verb>
+    <sub>Wirtschaftsgipfel</sub>
+  </sentence>
+  <sentence n="162" sent_id="test-s711">
+    <text_sent>Werden Sie bockig.</text_sent>
+    <verb>Werden</verb>
+    <sub>Sie</sub>
+  </sentence>
+  <sentence n="163" sent_id="test-s717">
+    <text_sent>Schon am Wochenende war an den österreichischen Grenzen alles wieder scheinbar in bester Ordnung.</text_sent>
+    <verb>war</verb>
+    <sub>alles</sub>
+  </sentence>
+  <sentence n="164" sent_id="test-s718">
+    <text_sent>Meldeten sich in Zeiten der Visumsfreiheit durchschnittlich 500 Flüchtlinge täglich, waren es am Freitag noch ``unter 100''.</text_sent>
+    <verb>Meldeten</verb>
+    <sub>Flüchtlinge</sub>
+  </sentence>
+  <sentence n="165" sent_id="test-s720">
+    <text_sent>Auch im Westen Bosnien-Herzegowinas dauerten die Kämpfe um die Stadt Trebinje an.</text_sent>
+    <verb>dauerten</verb>
+    <sub>Kämpfe</sub>
+  </sentence>
+  <sentence n="166" sent_id="test-s723">
+    <text_sent>Im Saarländischen Rundfunk sagte er am Montag, es sei ``eigentlich ein Witz und nicht zu verstehen'', daß Menschen aus Kroatien, Slowenien und Serbien in Deutschland Aufnahme fänden, Flüchtlinge aus Bosnien-Herzegowina jedoch nur mit Visum einreisen dürften.</text_sent>
+    <verb>sagte</verb>
+    <sub>er</sub>
+  </sentence>
+  <sentence n="167" sent_id="test-s724">
+    <text_sent>Während sich Mitglieder der UN-Truppen vor Ort über die Urheber des Anschlags nicht äußern wollten, machte die irakische Opposition den Geheimdienst von Präsident Saddam Hussein dafür verantwortlich.</text_sent>
+    <verb>machte</verb>
+    <sub>Opposition</sub>
+  </sentence>
+  <sentence n="168" sent_id="test-s737">
+    <text_sent>Dies zeigten die Vorschläge zur Gesundheitspolitik und zur Pflegeversicherung sowie die unsinnige Diskussion um die Karenztage und die ``völlige Hilflosigkeit'' bei der Bekämpfung der Wohnungsnot.</text_sent>
+    <verb>zeigten</verb>
+    <sub>Vorschläge</sub>
+  </sentence>
+  <sentence n="169" sent_id="test-s745">
+    <text_sent>Es sei Sache der Union zu prüfen, ob er durchzusetzen sei.</text_sent>
+    <verb>sei</verb>
+    <sub>Sache</sub>
+  </sentence>
+  <sentence n="170" sent_id="test-s746">
+    <text_sent>Durch Blockadeaktionen unterbrochen war der Verkehr am Montag vor allem auf den großen Nord-Süd-Verbindungen zwischen Paris, Marseille und Toulouse.</text_sent>
+    <verb>unterbrochen</verb>
+    <sub>Verkehr</sub>
+  </sentence>
+  <sentence n="171" sent_id="test-s748">
+    <text_sent>``am Anfang hatten wir gehofft, der Markt würde sich halten'', meinte ein Händler.</text_sent>
+    <verb>meinte</verb>
+    <sub>Händler</sub>
+  </sentence>
+  <sentence n="172" sent_id="test-s750">
+    <text_sent>Mit leiser Stimme erzählt sie ihre Geschichte.</text_sent>
+    <verb>erzählt</verb>
+    <sub>sie</sub>
+  </sentence>
+  <sentence n="173" sent_id="test-s758">
+    <text_sent>Dort stieg der Auftragseingang von März zu April zwar um 7,5 Prozent.</text_sent>
+    <verb>stieg</verb>
+    <sub>Auftragseingang</sub>
+  </sentence>
+  <sentence n="174" sent_id="test-s765">
+    <text_sent>Nachdem die Serben bereits vor Wochen ihren eigenen Staat ``Serbische Republik Bosnien-Herzegowina'' ausgerufen haben, zogen die Kroaten nach.</text_sent>
+    <verb>zogen</verb>
+    <sub>Kroaten</sub>
+  </sentence>
+  <sentence n="175" sent_id="test-s769">
+    <text_sent>Insbesondere bei den Sorgenkindern, der Halbleitersparte und der Computer - Tochter Siemens Nixdorf Informationssysteme (SNI), scheint die Gesundung nicht recht voranzukommen.</text_sent>
+    <verb>scheint</verb>
+    <sub>Gesundung</sub>
+  </sentence>
+  <sentence n="176" sent_id="test-s773">
+    <text_sent>Offenbar versprechen sie sich davon mehr Vorteile für ihre eigenen Nuklearindustrien.</text_sent>
+    <verb>versprechen</verb>
+    <sub>sie</sub>
+  </sentence>
+  <sentence n="177" sent_id="test-s776">
+    <text_sent>Während Premierminister John Major gestern am Rande des G-7-Gipfels in München Bundeskanzler Helmut Kohl und den italienischen Regierungschef Giuliano Amato zur weiteren Kooperation am ``Jäger90''-Projekt zu bewegen suchte, erörterte in London Verteidigungsminister Malcolm Rifkind mit seinem deutschen Kollegen Volker Rühe die Konsequenzen des deutschen Rückziehers.</text_sent>
+    <verb>erörterte</verb>
+    <sub>Verteidigungsminister</sub>
+  </sentence>
+  <sentence n="178" sent_id="test-s779">
+    <text_sent>Aus Andeutungen, Gesprächen und Denkmodellen schließt die Organisation, daß bis Ende 1999 insgesamt 58 500 Arbeitsplätze zur Disposition stehen.</text_sent>
+    <verb>schließt</verb>
+    <sub>Organisation</sub>
+  </sentence>
+  <sentence n="179" sent_id="test-s785">
+    <text_sent>So fuhren auch diese mit ihren Traktoren auf und blockierten ihrerseits Eisenbahnstrecken -- vornehmlich im Rhonetal.</text_sent>
+    <verb>fuhren</verb>
+    <sub>diese</sub>
+  </sentence>
+  <sentence n="180" sent_id="test-s788">
+    <text_sent>Zudem profitieren die Essener vom Image der ``umweltfreundlichen und sauberen'' Verbrennung ihrer Energie.</text_sent>
+    <verb>profitieren</verb>
+    <sub>Essener</sub>
+  </sentence>
+  <sentence n="181" sent_id="test-s800">
+    <text_sent>Laut Tanjug stehen die eingekesselten Städte Odzak und Gradacac unmittelbar vor der Einnahme.</text_sent>
+    <verb>stehen</verb>
+    <sub>Städte</sub>
+  </sentence>
+  <sentence n="182" sent_id="test-s811">
+    <text_sent>Nördlich von Paris blockierten Bauern wegen der EG-Agrarbeschlüsse die Zugverbindung nach Amiens.</text_sent>
+    <verb>blockierten</verb>
+    <sub>Bauern</sub>
+  </sentence>
+  <sentence n="183" sent_id="test-s813">
+    <text_sent>Im Gegenzug verlangt die Gewerkschaft, daß die Arbeitgeber drei Jahre hintereinander je 100 000 zusätzliche Stellen schaffen und 10 000 Langzeitarbeitslose einstellen.</text_sent>
+    <verb>verlangt</verb>
+    <sub>Gewerkschaft</sub>
+  </sentence>
+  <sentence n="184" sent_id="test-s814">
+    <text_sent>Mit Bestürzung reagierte auch der nordrhein-westfälische Ministerpräsident Johannes Rau (SPD).</text_sent>
+    <verb>reagierte</verb>
+    <sub>Ministerpräsident</sub>
+  </sentence>
+  <sentence n="185" sent_id="test-s822">
+    <text_sent>Über die Zahl von Verletzten und Vermißten gab es keine genauen Angaben.</text_sent>
+    <verb>gab</verb>
+    <sub>es</sub>
+  </sentence>
+  <sentence n="186" sent_id="test-s836">
+    <text_sent>Nach einer Tagung des Länderrats der Bündnis-Grünen sagte deren Vorstandssprecher Jürgen Trittin am Sonntag in Erfurt, die SPD-Spitze wolle sich mit ihren Vorbehalten gegen die Währungsunion aus der Verantwortung stehlen.</text_sent>
+    <verb>sagte</verb>
+    <sub>Vorstandssprecher</sub>
+  </sentence>
+  <sentence n="187" sent_id="test-s843">
+    <text_sent>Zudem gehe es nicht um große Mengen.</text_sent>
+    <verb>gehe</verb>
+    <sub>es</sub>
+  </sentence>
+  <sentence n="188" sent_id="test-s844">
+    <text_sent>Hat eine Frau zum Beispiel Kleinkinder, kann sie es auch gar nicht, jedenfalls nicht zu diesem Zeitpunkt.</text_sent>
+    <verb>Hat</verb>
+    <sub>Frau</sub>
+  </sentence>
+  <sentence n="189" sent_id="test-s844">
+    <text_sent>Hat eine Frau zum Beispiel Kleinkinder, kann sie es auch gar nicht, jedenfalls nicht zu diesem Zeitpunkt.</text_sent>
+    <verb>kann</verb>
+    <sub>sie</sub>
+  </sentence>
+  <sentence n="190" sent_id="test-s845">
+    <text_sent>Mir macht das nichts aus.</text_sent>
+    <verb>macht</verb>
+    <sub>das</sub>
+  </sentence>
+  <sentence n="191" sent_id="test-s855">
+    <text_sent>In den zur Entscheidung anstehenden Fällen geht es um folgenden Sachverhalt:</text_sent>
+    <verb>geht</verb>
+    <sub>es</sub>
+  </sentence>
+  <sentence n="192" sent_id="test-s859">
+    <text_sent>Aber es liegt noch vieles im argen.</text_sent>
+    <verb>liegt</verb>
+    <sub>vieles</sub>
+  </sentence>
+  <sentence n="193" sent_id="test-s861">
+    <text_sent>Damit werden Arbeitsplätze sicherer, Arbeitslose finden Arbeit, und die 35-Stunden-Woche wird nicht durch Überstunden ausgehebelt.</text_sent>
+    <verb>werden</verb>
+    <sub>Arbeitsplätze</sub>
+  </sentence>
+  <sentence n="194" sent_id="test-s864">
+    <text_sent>``Ein halbes Jahrhundert riskierte er sein Leben bei der Verteidigung seines Landes und Volkes.</text_sent>
+    <verb>riskierte</verb>
+    <sub>er</sub>
+  </sentence>
+  <sentence n="195" sent_id="test-s875">
+    <text_sent>``Ich weiß nicht'', suchte der sonst so Eloquente nicht einmal eine Erklärung oder Ausrede, als er von israelischen Reportern auf eine mögliche ``Mitschuld'' des Likud angesprochen wurde.</text_sent>
+    <verb>suchte</verb>
+    <sub>Eloquente</sub>
+  </sentence>
+  <sentence n="196" sent_id="test-s877">
+    <text_sent>Wenige Wochen bevor der Queen-Sänger am 24. November 1991 an den Folgen seiner Aids-Infektion starb, sang und komponierte er in seinem Studio in Montreux noch mehrere neue Songs.</text_sent>
+    <verb>sang</verb>
+    <sub>er</sub>
+  </sentence>
+  <sentence n="197" sent_id="test-s878">
+    <text_sent>Noch anläßlich des Massakers von Hebron, als der Siedler und Arzt Baruch Goldstein vor anderthalb Jahren 29 betende Moslems niedergemetzelt hatte, stellte der jordanische Politologe Mustafa Hamarneh kategorisch fest: ``Juden schießen nicht auf Juden.''</text_sent>
+    <verb>stellte</verb>
+    <sub>Politologe</sub>
+  </sentence>
+  <sentence n="198" sent_id="test-s883">
+    <text_sent>Den in diesem Land vorhandenen Unternehmergeist lobte der Minister als eine ``milliarden-schwere Infrastruktur''.</text_sent>
+    <verb>lobte</verb>
+    <sub>Minister</sub>
+  </sentence>
+  <sentence n="199" sent_id="test-s885">
+    <text_sent>Mit 98 zu 95 Stimmen sprach sich ein Unterbezirksparteitag am Wochenende gegen eine zweite Amtszeit Reischs aus.</text_sent>
+    <verb>sprach</verb>
+    <sub>Unterbezirksparteitag</sub>
+  </sentence>
+  <sentence n="200" sent_id="test-s888">
+    <text_sent>Daher sei die Mitgliedschaft in der Partei kein ausreichender Grund, um Bewerber abzulehnen.</text_sent>
+    <verb>sei</verb>
+    <sub>Mitgliedschaft</sub>
+  </sentence>
+  <sentence n="201" sent_id="test-s893">
+    <text_sent>Er habe zwei Angebote, ``und über die verhandle ich ab 7. November, wenn die Verlängerung dann nicht stattfindet''.</text_sent>
+    <verb>verhandle</verb>
+    <sub>ich</sub>
+  </sentence>
+  <sentence n="202" sent_id="test-s897">
+    <text_sent>Positiv wirkten sich vor allem ``interne Maßnahmen zur Steigerung der Wettbewerbsfähigkeit'' und Volumensteigerungen in allen Sparten aus.</text_sent>
+    <verb>wirkten</verb>
+    <sub>Maßnahmen</sub>
+  </sentence>
+  <sentence n="203" sent_id="test-s898">
+    <text_sent>Nach Verlusten 1994 erwartet Cap Gemini in diesem Jahr ein positives Ergebnis, wie eine Sprecherin in Paris erklärt.</text_sent>
+    <verb>erwartet</verb>
+    <sub>Cap</sub>
+  </sentence>
+  <sentence n="204" sent_id="test-s907">
+    <text_sent>Sie habe die Tür schnell wieder zugeschlagen, sagte Chrétien.</text_sent>
+    <verb>sagte</verb>
+    <sub>Chrétien</sub>
+  </sentence>
+  <sentence n="205" sent_id="test-s909">
+    <text_sent>Dabei geht es laut Rexrodt um den Zeitpunkt der abendlichen Geschäftsschlußzeiten an Werktagen sowie am Samstag.</text_sent>
+    <verb>geht</verb>
+    <sub>es</sub>
+  </sentence>
+  <sentence n="206" sent_id="test-s914">
+    <text_sent>In den ersten sechs Monaten des bis 31. März reichenden Geschäftsjahres 1995/96 sprang ein Rekordgewinn vor Steuern von 430 Millionen Pfund (umgerechnet 960 Millionen Mark) heraus.</text_sent>
+    <verb>sprang</verb>
+    <sub>Rekordgewinn</sub>
+  </sentence>
+  <sentence n="207" sent_id="test-s920">
+    <text_sent>``Und wie viele Divisionen hat der Papst?''</text_sent>
+    <verb>hat</verb>
+    <sub>Papst</sub>
+  </sentence>
+  <sentence n="208" sent_id="test-s927">
+    <text_sent>Das vom Landwirtschaftsminister gern benutzte Arbeitsplatz-Argument läßt er nicht gelten.</text_sent>
+    <verb>läßt</verb>
+    <sub>er</sub>
+  </sentence>
+  <sentence n="209" sent_id="test-s930">
+    <text_sent>Miteinander verschränkt existieren Ethik und Ästhetik, Körperlichkeit und Vernunft.</text_sent>
+    <verb>existieren</verb>
+    <sub>Ethik</sub>
+  </sentence>
+  <sentence n="210" sent_id="test-s937">
+    <text_sent>So war es eben nicht.</text_sent>
+    <verb>war</verb>
+    <sub>es</sub>
+  </sentence>
+  <sentence n="211" sent_id="test-s938">
+    <text_sent>Um das zu beziffern, benötigt jedoch niemand Umschreibungen mit mißverständlichem Tremolo.</text_sent>
+    <verb>benötigt</verb>
+    <sub>niemand</sub>
+  </sentence>
+  <sentence n="212" sent_id="test-s943">
+    <text_sent>Und ohne diesen Tag ist die Geschichte der Selbstbehauptung mit Neumann und Reuter unter dem Schutz der drei Westmächte auch nicht erklärbar.</text_sent>
+    <verb>ist</verb>
+    <sub>Geschichte</sub>
+  </sentence>
+  <sentence n="213" sent_id="test-s944">
+    <text_sent>denn ohne sie ginge es weiter abwärts.</text_sent>
+    <verb>ginge</verb>
+    <sub>es</sub>
+  </sentence>
+  <sentence n="214" sent_id="test-s947">
+    <text_sent>Mitglieder der Delegation von Jörg Schönbohm, Staatssekretär im Verteidigungsministerium und ``Pfadfinder'' für Kohl, behaupten, es bestehe ``kein Zusammenhang'' zwischen dem Kanzler-Besuch und der Wiederaufnahme der Militärbeziehungen.</text_sent>
+    <verb>bestehe</verb>
+    <sub>Zusammenhang</sub>
+  </sentence>
+  <sentence n="215" sent_id="test-s948">
+    <text_sent>Der frühere General Schönbohm sei bei Verteidigungsminister Chi Haotian, dem Stellvertretenden Generalsstabschef Cao Gangchuan und anderen Militärs ``gut angekommen'', heißt es in Peking.</text_sent>
+    <verb>heißt</verb>
+    <sub>es</sub>
+  </sentence>
+  <sentence n="216" sent_id="test-s956">
+    <text_sent>In der Bundesrepublik leben noch grob geschätzt rund 100 000 Asylbewerber aus Libanon und über 10 000 aus Syrien.</text_sent>
+    <verb>leben</verb>
+    <sub>Asylbewerber</sub>
+  </sentence>
+  <sentence n="217" sent_id="test-s960">
+    <text_sent>Damit stellt sich Leister offen auf die Seite der FDP und von Kartellamtschef Dieter Wolf, der diese Kompetenz für sein Haus beansprucht.</text_sent>
+    <verb>stellt</verb>
+    <sub>Leister</sub>
+  </sentence>
+  <sentence n="218" sent_id="test-s962">
+    <text_sent>``Da sind auch Filetstücke dabei'', weiß ein Experte.</text_sent>
+    <verb>sind</verb>
+    <sub>Filetstücke</sub>
+  </sentence>
+  <sentence n="219" sent_id="test-s962">
+    <text_sent>``Da sind auch Filetstücke dabei'', weiß ein Experte.</text_sent>
+    <verb>weiß</verb>
+    <sub>Experte</sub>
+  </sentence>
+  <sentence n="220" sent_id="test-s970">
+    <text_sent>Zugleich lockt er die Wirtschaft zum ``technologischen Sprung nach vorn'', etwa die Weltmärkte mit Benzinsparautos ``Made in Germany'' zu erobern.</text_sent>
+    <verb>lockt</verb>
+    <sub>er</sub>
+  </sentence>
+  <sentence n="221" sent_id="test-s976">
+    <text_sent>Und hinter Jordaniens König Hussein nahmen gleich vier Sicherheitsagenten unauffällig Platz.</text_sent>
+    <verb>nahmen</verb>
+    <sub>Sicherheitsagenten</sub>
+  </sentence>
+</file>
