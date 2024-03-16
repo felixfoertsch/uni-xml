@@ -1,0 +1,70 @@
+let $binary := http:send-request(
+  <http:request method='POST'
+  override-media-type='text;charset=ISO-8859-1'>
+    <http:body media-type='application/x-www-form-urlencoded'/>
+  </http:request>,
+  'https://www.lak-energiebilanzen.de/wp/wp-admin/admin-post.php',
+  normalize-space(
+    'action=dana_post&amp;abfrage=e900&amp;submit_csv=CSV-Datei+herunterladen&amp;
+    land[]=1&amp;
+    land[]=2&amp;
+    land[]=3&amp;
+    land[]=4&amp;
+    land[]=5&amp;
+    land[]=6&amp;
+    land[]=7&amp;
+    land[]=8&amp;
+    land[]=9&amp;
+    land[]=10&amp;
+    land[]=11&amp;
+    land[]=12&amp;
+    land[]=13&amp;
+    land[]=14&amp;
+    land[]=15&amp;
+    land[]=16&amp;
+    Jahre[]=2017&amp;
+    Jahre[]=2018&amp;
+    Jahre[]=2019&amp;
+    Jahre[]=2020&amp;
+    var[]=anm&amp;
+    var[]=insgesamt&amp;
+    var[]=steinkohle_roh&amp;
+    var[]=steinkohle_briketts&amp;
+    var[]=steinkohle_koks&amp;
+    var[]=steinkohle_andere&amp;
+    var[]=braunkohle_roh&amp;
+    var[]=braunkohle_briketts&amp;
+    var[]=braunkohle_andere&amp;
+    var[]=minoel_erdoel&amp;
+    var[]=minoel_rohbenzin&amp;
+    var[]=minoel_ok&amp;
+    var[]=minoel_dk&amp;
+    var[]=minoel_flug&amp;
+    var[]=minoel_hel&amp;
+    var[]=minoel_hs&amp;
+    var[]=minoel_petkoks&amp;
+    var[]=minoel_andere&amp;
+    var[]=minoel_lpg&amp;
+    var[]=minoel_raffgas&amp;
+    var[]=gase_kokereigas&amp;
+    var[]=gase_gichtgas&amp;
+    var[]=gase_erdgas&amp;
+    var[]=gase_sonstige&amp;
+    var[]=erneuer_klaerdepgas&amp;
+    var[]=erneuer_wasser&amp;
+    var[]=erneuer_wind&amp;
+    var[]=erneuer_solar&amp;
+    var[]=erneuer_biomasse&amp;
+    var[]=erneuer_sonst&amp;
+    var[]=andere_strom&amp;
+    var[]=andere_kernenergie&amp;
+    var[]=andere_fernwaerme&amp;
+    var[]=andere_andere&amp;
+    var[]=Stand'
+  )
+)
+
+return
+file:write-text(
+  "/Users/felixfoertsch/Downloads/basex/src/csv-test.csv", $binary[2], "UTF-8"
+)
